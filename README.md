@@ -7,5 +7,8 @@ Título do projeto:
 
 Espaço dedicado para scripts e apêndice
 
+Para ordem e mais detalhes sobre os scripts leia: "Uma breve descrição dos scripts.txt"
+
+
 Quaisquer dúvidas entre em contato conosco: gregoriosilva1986@gmail.com
 
