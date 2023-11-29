@@ -1,6 +1,44 @@
 Uma breve descrição dos scripts
 
 
+# dados
+
+A pasta 'base povo' - consta todos os bancos de dados de público
+
+As bases de dados de elites utilizadas constam na 'pasta bases elite'
+
+A pasta 'codebooks e questionários' consta informações sobre os bancos de dados
+
+
+#  Para análise fatorias e regressões ...
 ...
 
-O  Arquivo ...
+
+# Análise de congruência
+
+Observação inicial: 
+As bases de dados do público 'pasta bases povo' - foram geradas de 'A Cara da Democracia' (onda 2019) e do banco brasileiro do WVS' (Ondas 5,6 e 7 já devidamente preparada, isolando as variáveis de interesse- arquivos df5,df6 e df7- o procedimento foi descrito no script: "criar base de dados wvs.R").
+
+Abaixo vou descrever os caminhos para gerar as figuras 3, 4, 5, 6, 7, 8 e 9:
+
+Começa com a pasta 'scripts 1' contem diversos scripts, é pra rodar todos, a ordem não altera o resultado. Deve-se ter cuidado para gerar um projeto em que as bases de dados supramencionadas estejam disponíveis.
+
+Os dados gerados ali possibilitaram vários insights que possibilitaram as figuras e tabelas geradas no trabalho. 
+
+A próxima pasta é 'scripts e dados_pasta 2', que contém algumas dessas análises e foi usada para confecção das figuras 3 e 4
+-Figura 3 (macro gap geral) - Consta no script  'Figura 3 e4.R' na linha 87
+-Figura 4 (macro gap por partidos) - Consta no script  'Figura 3 e4.R' na linha 62
+
+-Figura 5 - (distribuição geral de liberal fundamentalismo) - foi mediante mediante base de dados criada especialmente para esse fim - tanto a base quanto a os scripts - constam na pasta: 'scripts e dados_pasta 3' -  no script = 'recod graficos distribuições no tempo.R' - linha 317
+
+-Figura 8 - (distribuição geral de liberal fundamentalismo) - consta na pasta: 'scripts e dados_pasta 3' -  no script = 'recod graficos distribuições no tempo.R' - linha 283
+
+-Figura 6 e 7 - (micro gap Lib/Fund por períodoo) - foi mediante mediante base de dados criada especialmente para esse fim - tanto a base quanto a os scripts - constam na pasta: 'scripts e dados_pasta 4' -  no script = 'grafico microgap.R' - linha 356 e linha 357
+
+- Figura 9 - teste de média - Consta na pasta : 'scripts e dados_pasta 5. O script é = 'teste media grafo.R', na linha 194;
+
+
+
+
+...
+
