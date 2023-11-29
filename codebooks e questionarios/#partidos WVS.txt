@@ -1,0 +1,26 @@
+#partidos WVS
+#76001	BRA:Brazilian Democratic Movement
+#76002	BRA:Workers´ Party
+#76003	BRA:Brazilian Social Democracy Party
+#76004	BRA:Democratic Labour Party
+#76005	BRA:Progressive Party / Brazilian Progressive Party (PPB)
+#76006	BRA:Liberal Front / Democrats
+#76007	BRA:Brazilian Labour Party
+#76008	BRA:Communist Party of Brazil
+#76009	BRA:Communist Party of Brazil
+#76010	BRA:Green Party
+#76012	BRA:Brazilian Socialist Party
+#76013	BRA:Christian Democratic Party
+#76014	BRA:Socialist People´s Party
+#76015	BRA:Social Christian Party
+#76017	BRA:Party of National Mobilization
+#76019	BRA:National Reconstruction Party
+#76020	BRA:Reform Progressive Party
+#76021	BRA:Democratic Social Party
+#76023	BRA:Democrats
+#76024	BRA:Progressives
+#76025	BRA:Brazilian Republican Party
+#76026	BRA:We can
+#76027	BRA:Brazilian Communist Party
+#76028	BRA:Sustainability Network
+#76029	BRA:Socialism and Liberty Party
