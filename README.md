@@ -5,7 +5,7 @@ Título do projeto:
 
 `Existem Clivagens no Brasil? Evidências preliminares de uma agenda de pesquisa em desenvolvimento´
 
-Espaço dedicado para scripts e apêndice
+Espaço dedicado para scripts e para o apêndice online
 
 Para ordem e mais detalhes sobre os scripts leia: "Uma breve descrição dos scripts.txt":
 
