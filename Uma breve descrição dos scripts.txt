@@ -10,10 +10,10 @@ As bases de dados de elites utilizadas constam na 'pasta bases elite'
 A pasta 'codebooks e questionários' consta informações sobre os bancos de dados
 
 
-#  Para análise fatorias e regressões ...
+#  Para Tabela1, figuras 2 e 3 e análises do anexo
 ver 'script1.R'
 
 
-# para a
+# Para as figuras 4,5,6,7,8,9 e 10
 ...
-ver 'script1.R'
+ver 'script2.R'
