@@ -7,7 +7,3 @@ Para ordem e mais detalhes sobre os scripts leia: "Uma breve descrição dos scr
 https://bit.ly/3S0lk9U
 
 
-
-
-Quaisquer dúvidas entre em contato conosco: gregoriosilva1986@gmail.com
-
