@@ -12,8 +12,11 @@ A pasta 'codebooks e questionários' consta informações sobre os bancos de dad
 
 #  Para Tabela1, figuras 2 e 3 e análises do anexo
 ver 'script1.R'
-
+ou 
+ver 'copia segurança script1.R'
 
 # Para as figuras 4,5,6,7,8,9 e 10
 ...
 ver 'script2.R'
+ou 
+ver 'copia segurança script2.R'
