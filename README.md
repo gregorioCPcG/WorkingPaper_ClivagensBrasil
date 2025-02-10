@@ -1,6 +1,4 @@
-# WorkingPaper_ClivagensBrasil
-Working Paper - Clivagens políticas no Brasil
-Espaço dedicado para scripts e para o apêndice online
+# Documentos online de " Existem Clivagens Políticas no Brasil?"
 
 Para ordem e mais detalhes sobre os scripts leia: "Uma breve descrição dos scripts.txt".
 Apêndice online:
