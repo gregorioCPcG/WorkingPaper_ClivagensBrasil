@@ -1,4 +1,4 @@
-# Documentos online de " Existem Clivagens Políticas no Brasil?"
+# Documentos online de "Existem Clivagens Políticas no Brasil?"
 
 Para ordem e mais detalhes sobre os scripts leia: "Uma breve descrição dos scripts.txt".
 Apêndice online:
